@@ -264,8 +264,22 @@ input[type="submit"]{
     font-size: 17px;
   }.img2{
     width: 90%;
+    height: 400px ;
   }.hideOverflowOnMobile {
     overflow: hidden;
+    }.social{
+      margin-top: 15px !important;
     }
 
+}@media screen and (max-width: 380px){
+  .para1{
+    font-size: 13px !important;
+  }.para3{
+    font-size: 14px !important;
+  }.aboutme .text-start{
+    text-align: start !important;
+  }.blog .text-start{
+    text-align: start !important;
+    font-size: 15px !important;
+  }
 }
