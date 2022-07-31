@@ -264,6 +264,8 @@ input[type="submit"]{
     font-size: 17px;
   }.img2{
     width: 90%;
-  }
+  }.hideOverflowOnMobile {
+    overflow: hidden;
+    }
 
 }
