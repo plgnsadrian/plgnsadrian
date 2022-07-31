@@ -1,6 +1,6 @@
 body{
     background-color:  #FFFFFF;
-}body, html {
+}body {
     height: 100%;
     width:100%;
     text-align: center;
@@ -237,4 +237,32 @@ input[type="submit"]{
   100% {
     height: 0%;
   }
+}@media screen and (max-width: 500px){
+  .con1{
+    display: block !important;
+  }.res1{
+    margin: auto !important;
+    margin-top: 50px !important;
+    
+  }.text-start{
+    text-align: center !important;
+  }.para1{
+    font-size: 15px !important;
+  }.para3{
+    font-size: 18px !important;
+  }.con2{
+    margin-top: 20px !important;
+    margin-left: 0% !important;
+  }.img1{
+    display: none;
+  }.res2{
+    padding: 50px !important;
+  }.para6{
+    font-size: 17px;
+  }.para4{
+    font-size: 17px;
+  }.img2{
+    width: 90%;
+  }
+
 }
