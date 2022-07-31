@@ -1,0 +1,149 @@
+.masthead {
+  background-size: cover;
+  min-height: 110vh;
+  background-color: #00c2d6;
+}
+.btn-outline {
+  background-color: #00c2d6;
+}
+.navbar-light {
+  background-color: #ffffff;
+  margin: 0%;
+}
+.navbar-expand-lg {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  height: 100px;
+  width: 100%;
+}
+.dropdown-item {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 550;
+  font-size: 20px;
+  width: 100%;
+}
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+.dropdown-menu {
+  width: 80px;
+}
+.dropdown-menu:hover {
+  display: block;
+}
+.navbar .nav-link:hover {
+  background-color: #00c2d6;
+  border-radius: 15px;
+}
+.dropdown-menu .dropdown-item:hover {
+  background-color: #00c2d6;
+  border-radius: 10px;
+}
+.nav-link {
+  color: black !important;
+}
+.nav-link.active {
+  color: black !important;
+  background-color: #00c2d6;
+  border-radius: 10px;
+}
+.dropdown:hover {
+  background-color: #00c2d6;
+  border-radius: 10px;
+}
+.para {
+  background-color: #edbea4;
+}
+.para2 {
+  background-color: #edbea4;
+}
+.position {
+  margin-left: 400px;
+}
+h1 {
+  position: absolute;
+  width: 954px;
+  height: 74px;
+  left: -0px;
+  top: -73px;
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 700px;
+  font-size: 25px;
+  line-height: 70px;
+  color: #ffffff;
+  background: #00c2d6;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px 20px 0 0;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  color: #372732;
+}
+.container {
+  position: relative;
+  margin-left: 0px;
+  width: 900px;
+  height: 520px;
+  left: 59px;
+  top: 70px;
+  background: #ffffff;
+  border-radius: 0 0 20px 20px;
+}
+.container input {
+  width: 586px;
+  height: 39px;
+  left: 477px;
+  top: 686px;
+}
+#exampleFormControlTextarea1 {
+  width: 586px;
+  height: 174px;
+  left: 477px;
+  top: 686px;
+}
+#SAVE-NOW {
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 30px;
+  color: black;
+  background-color: #00c2d6;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border: 0;
+  width: 160px;
+  height: 45px;
+  border-radius: 14px;
+}#SAVE-NOW:hover{
+  background-color: #50677B;
+  color: white;
+
+}
+hr {
+  border: 1px solid black;
+}
+.error {
+  border: 1px solid red;
+}
+.div1 {
+  width: 1800px;
+  height: 100vh;
+  border-radius: 20px;
+  background-color: #fdf6ec;
+}
+.div2 {
+  background-color: #00c2d6;
+}
+.form-control {
+  background: #ececec;
+}
+.item2 {
+  background-color: #00c2d6;
+}
